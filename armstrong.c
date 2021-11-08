@@ -12,7 +12,10 @@ void main()
         num = num/10;
        }
   if(result==temp)
+    {
     printf("Given number is a Armstrong number");
+    }
   else
+    {
     printf("Given number is not a Armstrong number");
-}
+}   }
